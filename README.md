@@ -1,2 +1,2 @@
 # project
-GenAI Project
+It contains my GenAI project repositories.
